@@ -1,0 +1,90 @@
+restaurant,menu,calories,total_fat,cholesterol,sodium,total_carb,sugar,protein
+Mcdonalds,Artisan Grilled Chicken Sandwich,380,7,95,1110,44,11,37
+Mcdonalds,Single Bacon Smokehouse Burger,840,45,130,1580,62,18,46
+Mcdonalds,Double Bacon Smokehouse Burger,1130,67,220,1920,63,18,70
+Mcdonalds,Grilled Bacon Smokehouse Chicken Sandwich,750,31,155,1940,62,18,55
+Mcdonalds,Crispy Bacon Smokehouse Chicken Sandwich,920,45,120,1980,81,18,46
+Mcdonalds,Big Mac,540,28,80,950,46,9,25
+Mcdonalds,Cheeseburger,300,12,40,680,33,7,15
+Mcdonalds,Classic Chicken Sandwich,510,24,65,1040,49,6,25
+Mcdonalds,Double Cheeseburger,430,21,85,1040,35,7,25
+Mcdonalds,Double Quarter Pounder® with Cheese,770,45,175,1290,42,10,51
+Mcdonalds,Filet-O-Fish®,380,18,40,640,38,5,15
+Mcdonalds,Garlic White Cheddar Burger,620,34,95,790,48,11,32
+Mcdonalds,Grilled Garlic White Cheddar Chicken Sandwich,530,20,125,1150,48,11,42
+Mcdonalds,Crispy Garlic White Cheddar Chicken Sandwich,700,34,85,1190,67,11,33
+Mcdonalds,Hamburger,250,8,30,480,31,6,13
+Mcdonalds,Lobster Roll,290,5,65,630,35,3,24
+Mcdonalds,Maple Bacon Dijon 1/4 lb Burger,640,36,110,1260,40,10,37
+Mcdonalds,Grilled Maple Bacon Dijon Chicken Sandwich,580,21,135,1890,50,14,48
+Mcdonalds,Crispy Maple Bacon Dijon Chicken Sandwich,740,35,95,1780,69,14,39
+Mcdonalds,McChicken,350,15,40,600,40,5,15
+Mcdonalds,McDouble,380,18,70,840,34,7,23
+Mcdonalds,McRib,480,22,80,870,45,12,25
+Mcdonalds,Pico Guacamole 1/4 lb Burger,580,33,95,920,41,7,29
+Mcdonalds,Grilled Pico Guacamole Chicken Sandwich,520,18,115,1540,50,12,40
+Mcdonalds,Crispy Pico Guacamole Chicken Sandwich,680,32,80,1430,69,12,31
+Mcdonalds,Premium Buttermilk Crispy Chicken Deluxe Sandwich,570,23,60,1050,64,11,28
+Mcdonalds,Premium Crispy Chicken Deluxe Sandwich,530,22,45,1000,59,13,25
+Mcdonalds,Quarter Pounder® with Cheese,530,27,100,1090,41,10,31
+Mcdonalds,Signature Sriracha Burger,670,35,95,1010,56,13,32
+Mcdonalds,Grilled Signature Sriracha Chicken Sandwich,560,20,115,1550,56,14,41
+Mcdonalds,Crispy Signature Sriracha Chicken Sandwich,730,33,80,1430,75,13,32
+Mcdonalds,Sweet BBQ Bacon 1/4 lb Burger,690,37,110,1310,51,14,38
+Mcdonalds,Grilled Sweet BBQ Bacon Chicken Sandwich,630,22,135,1930,61,18,48
+Mcdonalds,Crispy Sweet BBQ Bacon Chicken Sandwich,800,36,95,1820,80,18,39
+Mcdonalds,3 piece Buttermilk Crispy Chicken Tenders,370,21,70,910,16,0,28
+Mcdonalds,4 piece Buttermilk Crispy Chicken Tenders,480,28,95,1290,21,1,38
+Mcdonalds,6 piece Buttermilk Crispy Chicken Tenders,760,44,145,1890,32,1,58
+Mcdonalds,10 piece Buttermilk Crispy Chicken Tenders,1210,70,240,3230,52,4,94
+Mcdonalds,12 piece Buttermilk Crispy Chicken Tenders,1510,88,295,3770,64,2,115
+Mcdonalds,20 piece Buttermilk Crispy Chicken Tenders,2430,141,475,6080,103,3,186
+Mcdonalds,4 Piece Chicken McNuggets,180,11,30,340,11,0,10
+Mcdonalds,6 Piece Chicken McNuggets,270,16,45,510,16,0,15
+Mcdonalds,10 Piece Chicken McNuggets,440,27,75,840,26,0,24
+Mcdonalds,20 Piece Chicken McNuggets,890,53,145,1680,53,0,49
+Mcdonalds,40 piece Chicken McNuggets,1770,107,295,3370,105,1,98
+Mcdonalds,4 piece Sweet N' Spicy Honey BBQ Glazed Tenders,640,27,105,1780,63,35,39
+Mcdonalds,6 piece Sweet N' Spicy Honey BBQ Glazed Tenders,960,40,160,2670,94,52,58
+Mcdonalds,10 piece Sweet N' Spicy Honey BBQ Glazed Tenders,1600,66,265,4450,156,87,97
+Mcdonalds,Premium Asian Salad w/o Chicken,140,7,0,20,13,7,7
+Mcdonalds,Premium Asian Salad w/ Grilled Chicken,270,9,80,740,18,10,31
+Mcdonalds,Premium Asian Salad w/ Crispy Chicken,490,28,95,1120,28,4,33
+Mcdonalds,Premium Bacon Ranch Salad w/o Chicken,190,12,40,660,9,3,14
+Mcdonalds,Premium Bacon Ranch Salad w/ Grilled Chicken,320,14,45,1230,9,4,42
+Mcdonalds,Premium Bacon Ranch Salad w/ Crispy Chicken,490,28,95,1120,28,4,33
+Mcdonalds,Premium Southwest Salad w/o Chicken,220,10,15,500,26,9,8
+Mcdonalds,Premium Southwest Salad w/ Grilled Chicken,350,12,110,1070,27,9,37
+Mcdonalds,Premium Southwest Salad w/ Crispy Chicken,520,25,75,960,46,9,28
+Chick Fil-A,Chargrilled Chicken Club Sandwich,430,16,85,1120,37,7,37
+Chick Fil-A,Chargrilled Chicken Sandwich,310,6,55,820,36,7,29
+Chick Fil-A,Chick-n-Slider,270,11,45,800,26,4,16
+Chick Fil-A,1 Piece Chick-n-Strips,120,6,25,320,6,1,11
+Chick Fil-A,2 Piece Chick-n-Strips,230,12,55,630,13,1,22
+Chick Fil-A,3 Piece Chick-n-Strips,350,17,70,940,22,3,28
+Chick Fil-A,4 piece Chick-n-Strips,470,23,90,1250,29,4,37
+Chick Fil-A,Chicken Deluxe,500,23,75,1590,42,6,31
+Chick Fil-A,4 piece Chicken Nuggets,130,6,40,490,5,0,14
+Chick Fil-A,6 piece Chicken Nuggets,190,9,55,730,7,0,21
+Chick Fil-A,8 piece Chicken Nuggets,260,12,70,990,9,1,28
+Chick Fil-A,12 piece Chicken Nuggets,390,18,115,1460,14,1,41
+Chick Fil-A,30 piece Chicken Nuggets,970,46,285,3660,35,1,103
+Chick Fil-A,Chicken Salad Sandwich,490,19,80,1130,55,12,28
+Chick Fil-A,Chicken Sandwich,440,19,60,1350,40,5,28
+Chick Fil-A,4 Piece Grilled Chicken Nuggets,70,2,35,220,1,0,13
+Chick Fil-A,6 Piece Grilled Chicken Nuggets,110,3,50,330,2,0,19
+Chick Fil-A,8 piece Grilled Chicken Nuggets,140,4,70,440,2,0,25
+Chick Fil-A,12 Piece Grilled Chicken Nuggets,210,5,100,670,3,1,38
+Chick Fil-A,Spicy Grilled Chicken Sub Sandwich,430,12,85,1310,47,9,33
+Chick Fil-A,Regular Grilled Chicken Sub Sandwich,450,13,75,1000,48,10,34
+Chick Fil-A,Smokehouse BBQ Bacon Sandwich,500,18,95,1200,46,10,33
+Chick Fil-A,Spicy Chicken Sandwich,450,19,60,1620,41,5,29
+Chick Fil-A,Spicy Deluxe,540,25,80,1760,43,6,34
+Chick Fil-A,Chargrilled Chicken Cool Wrap,350,14,60,960,29,3,37
+Chick Fil-A,Chicken Enchiladas Meal Kit,860,47,100,2520,70,8,39
+Chick Fil-A,Chicken Parmesan Meal Kit,720,31,120,1780,65,7,48
+Sonic,Hatch Green Chile Cheeseburger,710,43,120,1120,44,7,35
+Sonic,Jalapeno Burger,640,37,100,930,42,6,31
+Sonic,Jr. Burger,340,17,35,640,34,6,15
+Sonic,Jr. Chili Cheeseburger,410,24,55,730,32,4,20
+Sonic,Jr. Deluxe Burger,380,23,40,470,32,4,15
